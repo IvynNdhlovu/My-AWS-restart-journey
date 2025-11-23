@@ -15,7 +15,7 @@
 
 # Benefits / Key Takeaways
 
-##Through this module, I learned how to:
+## Through this module, I learned how to:
 
 - Create database tables
 -Insert and manage data in tables
