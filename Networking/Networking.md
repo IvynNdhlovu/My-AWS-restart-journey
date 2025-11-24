@@ -14,7 +14,6 @@ This module introduced me to networking and key networking concepts, providing h
   
 ## Benefits / Key Takeaways
 
-- Through this module, I learned how to:
 - Build a VPC and launch a web server
 - Configure basic network components
 - Understand IP addressing and subnetting
