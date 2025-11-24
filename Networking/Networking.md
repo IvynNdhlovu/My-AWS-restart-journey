@@ -11,7 +11,7 @@ This module introduced me to networking and key networking concepts, providing h
 - Amazon VPC
 - IP Subnetting
 - Troubleshooting network issues
-- 
+  
 ## Benefits / Key Takeaways
 
 - Through this module, I learned how to:
