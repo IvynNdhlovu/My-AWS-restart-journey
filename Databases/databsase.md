@@ -4,7 +4,7 @@
 
 ## Topics Covered
 
--Introduction to databases
+- Introduction to databases
 - Creating tables
 - Performing database table operations
 - Inserting data into tables
